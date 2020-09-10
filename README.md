@@ -15,5 +15,5 @@
 -->
 
 
-- 📫 **Contact me through: **<a target="_blank" href="https://www.linkedin.com/in/ronanalmeida/">LinkedIn</a> or <a target="_blank" href="mailto:ronan.almeida@queensu.ca">Email</a> 
+- 📫 **Contact me through:**<a target="_blank" href="https://www.linkedin.com/in/ronanalmeida/">LinkedIn</a> or <a target="_blank" href="mailto:ronan.almeida@queensu.ca">Email</a> 
 

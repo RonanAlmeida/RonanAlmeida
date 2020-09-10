@@ -1,6 +1,6 @@
 ### Hey there, Welcome to my Github Profile 👋🏾
-#### Here you'll find the various projects I've worked on and other things I find interesting.
-## Checkout my <a target="_blank" href="https://www.linkedin.com/in/ronanalmeida/">Personal Website</a>
+ Here you'll find the various projects I've worked on and other things I find interesting.
+#### Checkout my <a target="_blank" href="https://www.linkedin.com/in/ronanalmeida/">Personal Website</a>
 
 <!--
 **RonanAlmeida/RonanAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

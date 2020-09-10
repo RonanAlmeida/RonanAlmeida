@@ -1,4 +1,4 @@
-### Hey there, Welcome to my Github Profile 👋🏾
+### Hey, Welcome to my Github Profile 👋🏾
  Here you'll find the various projects I've worked on and other things I find interesting.
 - 🌐 **Checkout my personal website <a target="_blank" href="https://ronan.tech">ronan.tech</a>**
 

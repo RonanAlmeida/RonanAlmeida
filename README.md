@@ -28,7 +28,7 @@ On this page you'll find the various projects I've worked on and other things I 
 
 <ul>
 <li><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> Here, have my <a href="https://brianruizy.com/assets/BrianRuiz-Resume.pdf" rel="nofollow"><strong>resume</strong></a>! Or, check my <a href="https://brianruizy.com/" rel="nofollow"><strong>portfolio</strong></a></li>
-<li>👨🏽&zwj;💻 Currently developing... <a href="https://github.com/favours-io">ReactProjects</a>,&amp; <a href="https://github.com/Bookomate/bookomate">spotify-higher-lower</a></li>
+<li>👨🏽&zwj;💻 Currently developing... <a href="https://github.com/RonanAlmeida/personal-website-app">personal-website</a>,&amp; <a href="https://github.com/RonanAlmeida/ReactProjects">React Projects</a></li>
 <li><g-emoji class="g-emoji" alias="office" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e2.png">🏢</g-emoji> I worked as a Python Dev. at <a href="https://www.linkedin.com/company/camstex/" rel="nofollow">CAMS, llc</a></li>
 <li><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> I use daily: <code>.py</code>, <code>.js</code>, <code>.html</code>, <code>.css</code>, <code>.csv</code>, <code>.psd</code></li>
 <li><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">🧰</g-emoji> Build with: <code>VSCode</code>, <code>Django</code>, <code>flask</code>, <code>Linux</code>, <code>Flutter</code>, <code>AWS</code>, <code>Docker</code>, <code>git</code>...</li>

@@ -31,5 +31,5 @@ On this page you'll find the various projects I've worked on and other things I 
 <li>👨🏽&zwj;💻 Projects I'm currently working on.. <a href="https://github.com/RonanAlmeida/personal-website-app">personal-website</a> &amp; <a href="https://github.com/RonanAlmeida/ReactProjects">React Projects</a></li>
 <li><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> I use daily: <code>.py</code>, <code>.js</code>, <code>.html</code>, <code>.css</code>, <code>.csv</code>, <code>.psd</code></li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Reach me: <strong><a href="mailto:ronan.almeida@queensu.ca">ronan.almeida@queensu.ca</a></strong></li>
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Learning all about <strong>Machine Learning</strong></li>
+<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Learning all about <strong>Moblie & Web Development</strong></li>
 </ul>

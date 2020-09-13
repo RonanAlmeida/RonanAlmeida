@@ -18,9 +18,7 @@ On this page you'll find the various projects I've worked on and other things I 
 
 - 🌐 Checkout my personal website <a target="_blank" href="https://ronan.tech">ronan.tech</a>
 
-- 📫 **Contact me through:** <a target="_blank" href="https://www.linkedin.com/in/ronanalmeida/">LinkedIn</a> or  <a target="_blank" href="mailto:ronan.almeida@queensu.ca">Email</a>
-
--->
+- 📫 **Contact me through:** <a target="_blank" href="https://www.linkedin.com/in/ronanalmeida/">LinkedIn</a> or  <a target="_blank" href="mailto:ronan.almeida@queensu.ca">Email</a>-->
 
 
 

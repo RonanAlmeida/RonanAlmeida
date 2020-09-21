@@ -23,7 +23,6 @@ On this page you'll find the various projects I've worked on and other things I 
 
 
 
-
 <ul>
 <li><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> Here, have my <a href="https://ronan.tech/static/media/RonanAlmeidaResume.01fa5f50.pdf" rel="nofollow"><strong>resume</strong></a>! or, view my <a href="https://ronan.tech/" rel="nofollow"><strong>portfolio website</strong></a></li>
 <li>👨🏽&zwj;💻 Projects I'm currently working on: <a href="https://github.com/RonanAlmeida/personal-website-app">personal-website</a> &amp; <a href="https://github.com/RonanAlmeida/ReactProjects">React Projects</a></li>

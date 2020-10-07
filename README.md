@@ -22,6 +22,7 @@ I'm a second-year Computer Science Student at Queen's University. On this page y
 
 
 
+#### Overview
 
 <ul>
 <li><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> Here, have my <a href="https://ronan.tech/static/media/RonanAlmeidaResume.013c5479.pdf" rel="nofollow"><strong>resume</strong></a>! or, view my <a href="https://ronan.tech/" rel="nofollow"><strong>portfolio website</strong></a></li>
@@ -31,7 +32,7 @@ I'm a second-year Computer Science Student at Queen's University. On this page y
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Currently Learning all about <strong>Algorithms & Web Development</strong></li>
 </ul>
 
-#### A Few Github Stats
+#### Github Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ronanalmeida&hide=stars,prs,issues" alt="Account Stats" />

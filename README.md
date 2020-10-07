@@ -31,5 +31,5 @@ I'm a second-year Computer Science Student at Queen's University. On this page y
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Currently Learning all about <strong>Algorithms & Web Development</strong></li>
 </ul>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ronanalmeida)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ronanalmeida&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 

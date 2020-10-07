@@ -34,7 +34,7 @@ I'm a second-year Computer Science Student at Queen's University. On this page y
 
 #### Github Stats
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=ronanalmeida&hide=stars,prs,issues" alt="Account Stats" />
 </p>
 

@@ -30,6 +30,12 @@ I'm a second-year Computer Science Student at Queen's University. On this page y
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Reach me: <strong><a href="mailto:ronan.almeida@queensu.ca">ronan.almeida@queensu.ca</a></strong></li>
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Currently Learning all about <strong>Algorithms & Web Development</strong></li>
 </ul>
-### Github Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ronanalmeida&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+
+#### A Few Github Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronanalmeida&hide=stars,prs,issues" alt="Account Stats" />
+</p>
+
+
 

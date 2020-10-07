@@ -32,4 +32,5 @@ I'm a second-year Computer Science Student at Queen's University. On this page y
 </ul>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ronanalmeida)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronanalmeida)](https://github.com/anuraghazra/github-readme-stats)
 

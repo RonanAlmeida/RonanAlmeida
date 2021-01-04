@@ -32,7 +32,7 @@ I'm a second-year Computer Science student at Queen's University with a passion 
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Currently Learning all about <strong>Algorithms & Product Development</strong></li>
 </ul>
 
-#### Github Stats
+#### Github Stats 📈
 
 <p >
   <img src="https://github-readme-stats.vercel.app/api?username=ronanalmeida&hide=prs,issues" alt="Account Stats" />

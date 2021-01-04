@@ -22,7 +22,7 @@ I'm a second-year Computer Science student at Queen's University with a passion 
 
 
 
-#### Overview
+#### Overview 📚
 
 <ul>
 <li><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> Here, have my <a href="https://ronan.tech/static/media/RonanAlmeidaResume.4c85b34c.pdf" rel="nofollow"><strong>resume</strong></a> or view my <a href="https://ronan.tech/" rel="nofollow"><strong>personal website</strong></a></li>

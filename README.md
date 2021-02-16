@@ -36,10 +36,13 @@ I'm a second-year Computer Science student at Queen's University with a passion 
 
 <details>
   <summary><strong>Github Stats 📈</strong></summary>
+![](https://komarev.com/ghpvc/?username=ronanalmeida)
 
 <p >
   <img src="https://github-readme-stats.vercel.app/api?username=RonanAlmeida&show_icons=true&hide_border=true&icon_color=f5210a&title_color=de4426&hide=prs,issues" alt="Account Stats" />
+
 </p>
+
 </details>
 
 

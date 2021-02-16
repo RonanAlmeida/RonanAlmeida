@@ -33,10 +33,10 @@ I'm a second-year Computer Science student at Queen's University with a passion 
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Currently Learning all about <strong>Algorithms & Product Development</strong></li>
 </ul>
 
+![](https://komarev.com/ghpvc/?username=ronanalmeida)
 
 <details>
   <summary><strong>Github Stats 📈</strong></summary>
-![](https://komarev.com/ghpvc/?username=ronanalmeida)
 
 <p >
   <img src="https://github-readme-stats.vercel.app/api?username=RonanAlmeida&show_icons=true&hide_border=true&icon_color=f5210a&title_color=de4426&hide=prs,issues" alt="Account Stats" />
@@ -44,5 +44,4 @@ I'm a second-year Computer Science student at Queen's University with a passion 
 </p>
 
 </details>
-
 

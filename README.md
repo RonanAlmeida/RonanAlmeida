@@ -19,7 +19,6 @@ I'm a Computer Science student at Queen's University and I have a passion for pr
 - 📫 **Contact me through:** <a target="_blank" href="https://www.linkedin.com/in/ronanalmeida/">LinkedIn</a> or  <a target="_blank" href="mailto:ronan.almeida@queensu.ca">Email</a>-->
 
 #### Overview 📚
-
 <ul>
 <li><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> View  my <a href="https://ronan.tech/static/media/RonanAlmeidaResume.22029662.pdf" rel="nofollow"><strong>resume</strong></a> or my <a href="https://ronan.tech/" rel="nofollow"><strong>personal website</strong></a></li>
 <!-- <li>👨🏽&zwj;💻 Projects I'm currently working on: <a href="https://github.com/RonanAlmeida/personal-website-app">personal-website</a> &amp; <a href="https://github.com/RonanAlmeida/ReactProjects">React Projects</a></li> -->

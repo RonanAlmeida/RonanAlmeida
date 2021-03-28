@@ -37,4 +37,3 @@ I'm a Computer Science student at Queen's University and I have a passion for pr
 </p>
 
 </details>
-

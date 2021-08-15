@@ -3,7 +3,7 @@
 I'm a Computer Science student at Queen's University, currently interning at LinkedIn as a Frontend UI Engineer. On this page you'll find the various projects I've worked on and other things I find interesting. 
 <p align="center">
   <samp>
-    <a href="https://www.linkedin.com/in/RonanAlmeida/">LinkedIn</a> -
+    <a href="https://www.linkedin.com/in/ronanalmeida/">LinkedIn</a> -
     <a href="https://ronan.codes/">Website</a> -
     <a href="mailto:ronan.almeida@queensu.ca">Email</a> 
   </samp>

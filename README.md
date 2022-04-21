@@ -1,9 +1,9 @@
-### Hi, I'm [Ronan](https://ronan.codes/) 
+### Hi, I'm [Ronan](https://ronan.world/) 
 
 I'm a computer science student at Queen's University, previously at LinkedIn as a Frontend UI Engineer intern. My github consists of some projects i've worked on and things i find interesting.
 <p align="center">
   <samp>
-        <a href="https://ronan.codes/">Website</a>  -
+        <a href="https://ronan.world/">Website</a>  -
     <a href="https://www.linkedin.com/in/ronanalmeida/">LinkedIn</a>
   </samp>
 </p>

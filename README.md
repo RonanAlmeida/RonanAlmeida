@@ -1,9 +1,9 @@
-### Hi, I'm [Ronan](https://ronan.world/) 
+<!-- ### Hi, I'm [Ronan](https://ronan.world/)  -->
 <p align="center">
   <samp>
-     <a href="https://ronan.world/">Website</a>  -
-    <a href="https://www.linkedin.com/in/ronanalmeida/">LinkedIn</a> -
-        <a href="https://open.spotify.com/playlist/3wMHb9Xrapk8HjPjY8FSAC">Playlist</a>
+     <a href="https://ronan.world/">website</a>  
+ :
+        <a href="https://open.spotify.com/playlist/7kQ7HKcIRpw1j9Tcmvt1Cx">random playlist</a>  :   <a href="https://www.linkedin.com/in/ronanalmeida/">linked[in]</a>
 
   </samp>
 </p>
@@ -20,7 +20,8 @@
 
 </ul>
 
-
+<p  align="center" > <img src = "https://pa1.aminoapps.com/7729/b32d4faa358a0e8f98f9f82b6bc79f87dda371c4r1-540-289_hq.gif" /> </p>
+<!-- 
 <details>
   <summary><strong>Github Stats</strong></summary>
 
@@ -31,3 +32,4 @@
 </p>
 
 </details>
+ -->

@@ -1,7 +1,7 @@
-<!-- ### Hi, I'm [Ronan](https://ronan.world/)  -->
+<!-- ### Hi, I'm [Ronan](https://ronan.place/)  -->
 <p align="center">
   <samp>
-     <a href="https://ronan.world/">website</a>  
+     <a href="https://ronan.place/">website</a>  
  :
         <a href="https://open.spotify.com/playlist/7kQ7HKcIRpw1j9Tcmvt1Cx">random playlist</a>  :   <a href="https://www.linkedin.com/in/ronanalmeida/">linked[in]</a>
 
